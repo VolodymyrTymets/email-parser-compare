@@ -1,0 +1,33 @@
+LEAD DESTINATION:
+Address:	Bronston KY, US
+
+INDIVIDUAL PROSPECT:
+Name:	megan harvey
+Telephone:	4402816772
+Email:	meganeliza.harvey@gmail.com
+
+LEAD INFORMATION:
+Lead date:	August 12, 2018 9:16 PM UTC
+Lead source:	Boats.com
+Lead status:	Lead
+Lead request type:	MORE-INFO-REQUEST
+
+SALES BOAT:
+Sale class:	Used
+Make:	Sea Ray
+Model description:	260 Sundancer
+Year:	2001
+IMT ID:	6755926
+URI:	http://www.boats.com/power-boats/2001-sea-ray-260-sundancer-6755926/
+
+CUSTOMER COMMENTS:
+hi
+looking at buying a new boat before the end of season this year. can i request a price and details. thanks calling or email is fine.
+megan
+
+LEAD COMMENTS:
+Subject: Listing #6755926 2001 Sea Ray 260 Sundancer
+ You Have received a lead from megan harvey - Email: meganeliza.harvey@gmail.com Phone: 4402816772
+ Comment: hi
+looking at buying a new boat before the end of season this year. can i request a price and details. thanks calling or email is fine.
+megan

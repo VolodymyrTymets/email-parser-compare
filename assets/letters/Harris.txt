@@ -1,0 +1,26 @@
+Lead Information
+Lead Received:	08.12.18 8:00PM
+Lead Source:	HarrisFloteBote.com - Build A Pontoon
+Comments:
+
+
+Prospect Information
+First Name:	John
+Last Name:	Mootrey
+Best Email:	Mootreyj@gmail.com
+Alt. Email 1:
+Address 1:
+Address 2:
+City:	Atl
+State / Province:	GA	Zip: 30345
+Country:	US
+Best Phone:
+Home Phone:
+Cell Phone:
+Work Phone:
+Language:	en-us
+
+
+Boat History
+Date	Interested	Purchased	Own Status	Year	Brand	Category	Product	Trade	Hours	Link	Comments
+08.12.18		 	Never	2018	Harris	Sunliner	200 Sunliner - 2018

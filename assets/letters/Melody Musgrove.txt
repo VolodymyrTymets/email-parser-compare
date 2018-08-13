@@ -1,0 +1,29 @@
+LEAD DESTINATION:
+Address:	Dadeville AL, US
+
+INDIVIDUAL PROSPECT:
+Name:	Melody Musgrove
+Telephone:	6017570099
+Email:	melodymusgrove@att.net
+
+LEAD INFORMATION:
+Lead date:	August 13, 2018 3:29 AM UTC
+Lead source:	Boats.com
+Lead status:	Lead
+Lead request type:	MORE-INFO-REQUEST
+
+SALES BOAT:
+Sale class:	Used
+Make:	JC
+Model description:	266
+Year:	2000
+IMT ID:	6783605
+URI:	http://www.boats.com/power-boats/2000-jc-266-6783605/
+
+CUSTOMER COMMENTS:
+Can you provide additional info about the boat? Sound system or any other equipment? Bimini top? Etc
+
+LEAD COMMENTS:
+Subject: Listing #6783605 2000 JC 266
+You Have received a lead from Melody Musgrove - Email: melodymusgrove@att.net Phone: 6017570099
+Comment: Can you provide additional info about the boat? Sound system or any other equipment? Bimini top? Etc

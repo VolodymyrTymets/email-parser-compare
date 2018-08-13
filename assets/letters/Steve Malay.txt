@@ -1,0 +1,29 @@
+LEAD DESTINATION:
+Address:	Bronston KY, US
+ 
+INDIVIDUAL PROSPECT:
+Name:	Steve Malay
+Telephone:	6364390065
+Email:	malaysteve@yahoo.com
+ 
+LEAD INFORMATION:
+Lead date:	August 13, 2018 2:12 AM UTC
+Lead source:	Boats.com
+Lead status:	Lead
+Lead request type:	MORE-INFO-REQUEST
+ 
+SALES BOAT:
+Sale class:	New
+Make:	Bayliner
+Model description:	Element E18
+Year:	2018
+IMT ID:	6627165
+URI:	http://www.boats.com/power-boats/2018-bayliner-element-e18-6627165/
+ 
+CUSTOMER COMMENTS:
+how much is the bayliner 160 bowrider?Thanks
+ 
+LEAD COMMENTS:
+Subject: Listing #6627165 2018 Bayliner Element E18 
+ You Have received a lead from Steve Malay - Email: malaysteve@yahoo.com Phone: 6364390065 
+ Comment: how much is the bayliner 160 bowrider?Thanks
